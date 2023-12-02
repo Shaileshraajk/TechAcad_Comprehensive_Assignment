@@ -1,0 +1,7 @@
+com\tests\ui\DemoAutomation.class
+com\test\testng\AmazonTest.class
+com\test\pom\GooglePOMTest.class
+com\test\pom\TestGoogleSearch.class
+com\tests\ui\LoginTest.class
+com\pom\test\GoogleSerachPOM.class
+com\pom\test\GoogleSearch.class
